@@ -1,0 +1,72 @@
+<html>
+<head>
+	<title>Supermecado Matías</title>
+ 	<meta charset="utf-8">
+  <link rel="icon" href="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2013/png/iconmonstr-shop-3.png&r=0&g=0&b=0">
+
+</head>
+  
+  <body>
+    <header>
+      <h1>SUPERMERCADO MATÍAS</h1>
+    </header>
+    <article>
+		  <h2>Nuestros productos más vendidos:</h2>
+  		  <table>
+				  <tbody>
+					  <tr>
+						  <td>
+							  <p><b>Frutas y verduras:</b></p>
+							  <a href="frutasyverduras.html"><img src="https://images.pexels.com/photos/1508666/pexels-photo-1508666.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" width="660px"></a>
+						  </td>
+						  <td>
+						
+						  </td>
+						  <td>
+							  <p><b>Víveres, rancho y licores:</b></p>
+							  <a href="viveres.html"><img src="https://images.pexels.com/photos/3167310/pexels-photo-3167310.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" width="660px"></a>
+						  </td>
+					  </tr>
+				  </tbody>		
+			  </table>
+    <br>
+		<br>
+			<a href="promociones.html">¡Aprovecha nuestra últimas promociones!</a>
+		<br>
+		<br>
+    
+	  <footer>
+	  	
+	  	<form action="" class="formulario"></form>
+	  	<h1 class="formulario__titulo">Peticiones, quejas y reclamos</h1>
+	  	<input type="text" class="formulario__input" >
+	  	<label for="" class="formulario__label">Nombre</label>
+
+	  	<input type="text" class="formulario__input" >
+	  	<label for="" class="formulario__label">Apellido</label>
+
+	  	<input type="text" class="formulario__input" >
+	  	<label for="" class="formulario__label">Correo Electrónico</label>
+
+	  	<input type="text" class="formulario__input" >
+	  	<label for="" class="formulario__label">Mensaje</label>
+
+	  	<input type="submit" class="formulario__submit">
+
+		  <b>Síguenos en Redes Sociales:</b>
+		  <b></b>
+		  <a href="https://facebook.com"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2012/png/iconmonstr-facebook-4.png&r=0&g=0&b=0" width="20px"></a>
+		  <a href="https://instagram.com"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2016/png/iconmonstr-instagram-11.png&r=0&g=0&b=0" width="20px"></a>
+		  <br>
+		  <a href="aboutus.html">¿Quíenes somos?</a>
+		  <br>
+		  <b>Contáctanos:</b>
+		  <b></b>
+		  <a href="https://web.whatsapp.com"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2016/png/iconmonstr-whatsapp-1.png&r=0&g=0&b=0" width="20px"></a>
+		  <a href="https://gmail.com"><img src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../assets/preview/2018/png/iconmonstr-gmail-5.png&r=0&g=0&b=0" width="20px"></a>
+		  <p><b>¿Cómo podemos ayudarte?</b></p>
+		  <p>Línea móvil: (+57) 322-205-2044</p>
+		  <p>Correo electrónico: atencionalcliente@supermatias.com</p>
+	  </footer>
+</body>
+</html>
